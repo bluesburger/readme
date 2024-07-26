@@ -31,11 +31,6 @@ Desinstalação
 
 [Link Relatório RIPD](https://drive.google.com/file/d/1zmFIYY9QuNIbDRwG-_rAL7rwFmhpcDDq/view?usp=sharing)
 
-----
-<h2>Desenho da arquitetura</h2>
-
-[Link desenho da arquitetura]()
-----
 <h2>link para video de apresentação</h2>
 
 [Link video de apresentação]()
